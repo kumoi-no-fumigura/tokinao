@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tokinao",
  "yomi": "さんぎときなおきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸初期",
+  "author": "西洞院時直",
+  "desc": "西洞院時慶の子、時直の家集。慶長年間の公宴・禁裏月次会・也足軒（中院通勝）での会などの詠を、年月日と題とともに収める。"
+ },
  "editions": [
   {
    "pid": "936505",
